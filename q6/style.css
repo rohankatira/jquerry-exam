@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(https://images.hdqwalls.com/download/porsche-911-carrera-4s-2019-vf-2560x1440.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+span{
+    font-size: 3rem;
+    color: #fff;
+}
+.selector{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
